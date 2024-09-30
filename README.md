@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is module federation Next.Js application main application that contains all of the remote application/feature, run this on port 3000. Remote application are on this repo [https://github.com/harunrasyid/profile-mf-app]
 
 ## Getting Started
 
